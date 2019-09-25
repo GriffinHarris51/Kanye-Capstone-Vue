@@ -5,7 +5,7 @@
         <div>
           <img
             class="h-screen p-0 rounded-sm shadow w-full"
-            src="@/assets/album-images/download.jpg"
+            src="@/assets/profile-images/placeholder.jpg"
             alt="image"
           />
         </div>
