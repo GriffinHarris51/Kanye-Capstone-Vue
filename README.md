@@ -1,5 +1,8 @@
 # KANYE APP
 
+# HEROKU WAS NOT WORKING, NOW BEING HOSTED ON NETLIFY
+griffincapstone.netlify.com
+
 ## Project setup
 
 ```
