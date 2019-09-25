@@ -3,7 +3,7 @@ node_modules
 /dist
 tailwind-config.js
 postcss.config.js
-*.mp4
+
 
 # local env files
 .env.local
